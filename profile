@@ -1,0 +1,1 @@
+web: gunicorn pypro.wsi --log-file-
